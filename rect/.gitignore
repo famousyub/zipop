@@ -1,0 +1,5 @@
+env
+Scraper/Logs/
+__pycache__
+Scraper/.google-cookie
+Scraper/linkedin_credentials.json
