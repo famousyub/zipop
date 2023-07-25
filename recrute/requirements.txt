@@ -1,0 +1,17 @@
+lxml>=4.3.2
+selenium>=3.141.0
+spacy==2.2.4
+requests>=2.21.0
+webdriver_manager>=3.4.2
+pandas>=0.25.1
+numpy>=1.19.5
+parsel>=1.6.0
+matplotlib>=3.1.1
+google>=3.0.0
+Flask==1.0.2
+proxy_checker>=0.6
+wordcloud>=1.6.0
+beautifulsoup4>=4.9.3
+mysql_connector_repackaged>=0.3.1
+pyresparser>=1.0.6
+scikit_learn>=0.24.2
